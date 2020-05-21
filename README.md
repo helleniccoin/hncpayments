@@ -1,2 +1,2 @@
 # hncpayments
-Hellenic Coin Secured Payment System
+The development of HNC payments system will not continue.
